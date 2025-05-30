@@ -1,7 +1,5 @@
 # Venda Fácil - Sistema de Estoque e Vendas
 
-![Logo do Projeto](https://imgur.com/3YtSsNB.png)
-
 **Venda Fácil** é um software desktop simples e intuitivo para gerenciamento de estoque e vendas, desenvolvido em **Java** com **Swing**.  
 Ideal para pequenos comércios que buscam uma solução prática para controle de produtos e registro de vendas.
 
